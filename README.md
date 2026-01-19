@@ -34,6 +34,7 @@ while :; do cat PROMPT.md | claude-code ; done
 - [Community](#community)
   - [Hacker News Discussions](#hacker-news-discussions)
   - [Tools & Directories](#tools--directories)
+  - [Ralph Communities](#ralph-communities)
 - [Related Tools](#related-tools)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -145,6 +146,11 @@ project-root/
 ### Tools & Directories
 
 - [Vibe Coding - Ralph Wiggum Loop](https://vibecoding.app/tools/ralph-wiggum-loop) - Tool directory entry with quick-start resources.
+
+### Ralph Communities
+
+- [r/ralphcoding]: A subreddit about Ralph Coding. Share your learnings, resources, achievements with the community.
+- [Ralph Discord](https://discord.gg/MUyRMqKcWx): Discord community discussing Ralph methods/resources/achievements.
 
 ## Related Tools
 
